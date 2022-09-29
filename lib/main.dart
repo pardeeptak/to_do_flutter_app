@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
       return Scaffold(
           backgroundColor: Colors.yellow[200],
           appBar: AppBar(
-            title: Text("To Do List"),
+            title: Text("To Do List to list"),
             actions: [
               Checkbox(
                   activeColor: Colors.black,
